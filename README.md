@@ -1,2 +1,2 @@
 # emotion_rec
-微博情感分类及可视化
+Emotion classification with word2vec+BiLSTM
